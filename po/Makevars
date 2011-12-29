@@ -1,0 +1,7 @@
+DOMAIN = $(PACKAGE)
+subdirs = po
+top_builddir = ..
+XGETTEXT_OPTIONS = --keyword=_ --keyword=N_
+COPYRIGHT_HOLDER = Jack Will
+MSGID_BUGS_ADDRESS = $(PACKAGE_BUGREPORT)
+EXTRA_LOCALE_CATEGORIES = 

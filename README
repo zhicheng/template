@@ -1,0 +1,49 @@
+This is the README file for the #Template# distribution.
+#Template# show a project directory structure. 
+
+  Copyright (C) 2011, 2012 Jack Will.
+
+  Copying and distribution of this file, with or without modification,
+  are permitted in any medium without royalty provided the copyright
+  notice and this notice are preserved.
+
+See the files ./INSTALL* for building and installation instructions.
+
+Primary distribution point: #Template distribution url#
+
+Home page: #Template URL#
+
+Mailing list: #Template mailing list#
+- please use this list for all discussion: bug reports, enhancements, etc.
+- archived at: #Template archive URL#
+- anyone is welcome to join the list; to do so, visit
+  #Template list info#
+- there is no corresponding newsgroup.
+
+Bug reports:
+ Please include enough information for the maintainers to reproduce the
+ problem.  Generally speaking, that means:
+- the contents of any input files necessary to reproduce the bug
+  and command line invocations of the program(s) involved (crucial!).
+- a description of the problem and any samples of the erroneous output.
+- the version number of the program(s) involved (use --version).
+- hardware, operating system, and compiler versions (uname -a).
+- unusual options you gave to configure, if any (see config.status).
+- anything else that you think would be helpful.
+
+Patches are most welcome; if possible, please make them with diff -c and
+include ChangeLog entries.
+
+See README-dev for information on the development environment -- any
+interested parties are welcome.  If you're a programmer and wish to
+contribute, this should get you started.  If you're not a programmer,
+your help in writing test cases, checking the documentation against the
+implementation, translating the program strings to other languages,
+etc., would still be very much appreciated.
+
+The basic #Template# algorithm was described by B.W. Kernighan and
+D.M. Ritchie.  The GNU implementation is substantially more complex, in
+order to be a canonical example of a GNU package.  Many people have
+contributed; please see the ./AUTHORS and ./ChangeLog files.
+
+#Template# is free software.  See the file COPYING for copying conditions.

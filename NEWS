@@ -1,0 +1,21 @@
+This NEWS file records noteworthy changes, very tersely.
+See the manual for detailed information.
+
+  Copyright 2011, 2012 Jack Will.
+  
+
+  Copying and distribution of this file, with or without modification,
+  are permitted in any medium without royalty provided the copyright
+  notice and this notice are preserved.
+
+Version 0.2 (28 December 2011)
+* Distribution:
+  . make template project.
+
+Version 0.1 (28 December 2011)
+* Distribution:
+  . init project
+  . add src/hello.c file.
+
+* There is now a `NEWS' file (this one), giving a history of
+  user-visible changes.
